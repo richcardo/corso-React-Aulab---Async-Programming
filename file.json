@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "PS5",
+    "categoria": "Tech",
+    "prezzo": 349.99
+  },
+  {
+    "nome": "iPhone 14 Pro",
+    "categoria": "Tech",
+    "prezzo": 600
+  },
+  {
+    "nome": "iPad",
+    "categoria": "Tech",
+    "prezzo": 700
+  },
+  {
+    "nome": "TV Samsung",
+    "categoria": "Tech",
+    "prezzo": 500
+  },
+  {
+    "nome": "iPhone 16 Pro",
+    "categoria": "Tech",
+    "prezzo": 900
+  },
+  {
+    "nome": "JBL speaker",
+    "categoria": "Tech",
+    "prezzo": 249.99
+  }
+]
