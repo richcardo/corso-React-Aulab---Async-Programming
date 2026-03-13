@@ -10,7 +10,9 @@ export async function fetchData() {
 export const populatediv = async function () {
   spinner.classList.remove("d-none");
   const data = await fetchData();
-  spinner.classList.add("d-none");
+  setTimeout(() => {
+    spinner.classList.add("d-none");
+  }, 2000);
   data.forEach((card) => {
     const cards = document.createElement("div");
     cards.classList.add("col-4", "my-4");
